@@ -2,7 +2,7 @@
 
 # Desafio Básico 
 
-Projeto proposto para criar uma conta banco em que o teminar receberá dados via terminal contendo as características de conta em banco. 
+Projeto proposto para criar uma conta banco em que o terminal receberá dados via terminal contendo as características de conta em banco. 
 
 *Atribuidos*  
 * Número da conta
