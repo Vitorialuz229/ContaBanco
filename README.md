@@ -10,5 +10,5 @@ Projeto proposto para criar uma conta banco em que o terminal receberá dados vi
 * Nome do Cliente 
 * Salto disponível 
 
-*Ferramentas Utilizadas* 
+*Ferramenta Utilizada* 
 * Java
